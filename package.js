@@ -11,6 +11,6 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.0.0');
+  api.versionsFrom('0.9.0');
   api.addFiles('jquery-titlealert.js', 'client');
 });
